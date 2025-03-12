@@ -1,7 +1,7 @@
 # Stock Market Investing 101
 
 ## Live Website
-[https://your-github-username.github.io/your-repository-name/](#)
+[https://yashnalluri7.github.io/stock-market-basics/](#)
 
 ## About
 This website introduces beginners to stock market investing, covering key concepts, strategies, and risk management techniques.
