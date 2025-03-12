@@ -1,2 +1,20 @@
-# stock-market-basics
-A high-level explanation on how the stock market works, and a few strategies
+# Stock Market Investing 101
+
+## Live Website
+[https://your-github-username.github.io/your-repository-name/](#)
+
+## About
+This website introduces beginners to stock market investing, covering key concepts, strategies, and risk management techniques.
+
+## Features
+✔ Custom font (Poppins)  
+✔ Dark blue theme with gold highlights  
+✔ Sticky navigation bar  
+✔ Contact information in the footer  
+
+## 📂 File Structure
+- `index.html` - Home page  
+- `investing-basics.html` - Explains key stock market concepts  
+- `strategies.html` - Covers investment strategies  
+- `style.css` - Custom styling  
+- `/images/` - Contains website images  
