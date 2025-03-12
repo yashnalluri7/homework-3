@@ -57,44 +57,9 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-    font-size: 28px;
-}
-
-h2 {
-    font-size: 24px;
-    margin-bottom: 15px;
-}
-
-h3 {
-    font-size: 20px;
-    margin-bottom: 10px;
-}
-
-/* Paragraph and List Styling */
-p {
-    font-size: 16px;
-    line-height: 1.6;
-    color: #333;
-    text-align: left;
-    margin: 10px 0;
-}
-
-ul {
-    text-align: left;
-    padding-left: 20px;
-}
-
-ul li {
-    margin-bottom: 10px;
-}
-
-/* Image Styling */
-.main-image {
-    width: 100%;
-    max-width: 600px;
-    border-radius: 10px;
-    margin-top: 15px;
-    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+    font-size: 36px; /* Increased font size */
+    color: white;
+    font-weight: 700;
 }
 
 /* Footer Styling */
@@ -107,8 +72,21 @@ footer {
     font-size: 14px;
 }
 
+/* Make "Contact Me" white */
+footer h3 {
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+/* Make Email & LinkedIn Text White */
+footer p {
+    color: white;
+    font-size: 16px;
+}
+
 footer a {
-    color: #f1c40f;
+    color: #f1c40f; /* Gold for LinkedIn */
     text-decoration: underline;
     transition: color 0.3s ease-in-out;
 }
