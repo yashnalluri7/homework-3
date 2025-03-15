@@ -12,7 +12,7 @@ This website introduces beginners to stock market investing, covering key concep
 ✔ Sticky navigation bar  
 ✔ Contact information in the footer  
 
-## 📂 File Structure
+## File Structure
 - `index.html` - Home page  
 - `investing-basics.html` - Explains key stock market concepts  
 - `strategies.html` - Covers investment strategies  
